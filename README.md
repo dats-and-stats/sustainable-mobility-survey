@@ -5,8 +5,8 @@ This repository contains the data and replication materials for the paper:
 
 ## Repository Structure
 * `dataset_clean.csv`: Raw survey responses (N = 1003) used in the Structural Equation Modeling (SEM), anonymized.
-* `codebook.pdf`: Description of survey items, Likert scales, and variable names.
-* `SEM_models.R`: R script used to perform the Structural Equation Modeling (SEM).
+* `codebook.xlsx`: Description of survey items and variable names.
+* `PLS-SEM-mobility-github.R`: R script used to perform the Structural Equation Modeling (SEM).
 
 ## Usage
 Data and code are provided under the MIT License. If you use them for academic purposes, please cite the main paper: 
